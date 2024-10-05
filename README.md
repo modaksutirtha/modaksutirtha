@@ -9,7 +9,7 @@
 
 <h2 align="left">🚀 About me:</h2>
 
-- 🔭 I’m currently working on [Drumkit](https://modaksutirtha.github.io/drumkit/)
+- 🔭 I’m currently working on [E-Voting App](https://biprajitpaul5555.github.io/votingapp_frontend/##/)
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/modaksutirtha**
 
-- 📄 Know about my skills & achievements **https://drive.google.com/file/d/1syI-XP0ypPXoUcPSedG0l0wP3AZKZ_LM/view?usp=sharing**
+- 📄 Know about my skills & achievements in my [Resume](https://drive.google.com/file/d/1b9Uz1kvOZ70twMyclUVskIVf7DHfIbZg/view?usp=drivesdk)
 
 - 😄 Pronouns: he/him
 
